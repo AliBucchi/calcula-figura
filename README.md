@@ -1,3 +1,3 @@
-Descrição: 
-Código em JAVA que permite o calcular a área de um circulo a partir de input de variavel raio.
-Utiliza interface gráfica.
+Description:
+Code in JAVA that allows calculating the area of ​​different figures from input variables for each of these figures.
+Uses graphical interface.
